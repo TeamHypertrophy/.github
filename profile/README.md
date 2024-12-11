@@ -1,12 +1,23 @@
-## Hi there 👋
+<div align="center">
 
-<!--
+<a href="https://hypertrophy.ghouldev.tech">
+    <img src="https://files.catbox.moe/0azk9m.png" alt="Hypertrophy logo" title="Hypertrophy logo" width="80"/>
+</a>
 
-**Here are some ideas to get you started:**
+# [Hypertrophy](#)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[![Discord server](https://img.shields.io/discord/1195734228319617024.svg?label=&labelColor=6A7EC2&color=7389D8&logo=discord&logoColor=FFFFFF)](https://discord.gg/mihon)
+
+</div>
+
+## About Hypertrophy
+
+Hypertrophy is a Fully Featured Mobile Application for Fitness Enthuasists and Gym-Goers alike!
+
+## Projects
+
+At Hypertrophy, we're committed to developing open-source solutions. Here are some of the key projects:
+
+[![TeamHypertrophy/Protein - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=teamhypertrophy&repo=Protein&bg_color=161B22&text_color=c9d1d9&title_color=0877d2&icon_color=0877d2&border_radius=8&hide_border=true&description_lines_count=2)](https://github.com/TeamHypertrophy/Protein/)
+[![TeamHypertrophy/Calisthenics - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=teamhypertrophy&repo=Calisthenics&bg_color=161B22&text_color=c9d1d9&title_color=0877d2&icon_color=0877d2&border_radius=8&hide_border=true&description_lines_count=2)](https://github.com/teamhypertrophy/calisthenics/)
+[![TeamHypertrophy/Testosterone - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=teamhypertrophy&repo=Testosteronet&bg_color=161B22&text_color=c9d1d9&title_color=0877d2&icon_color=0877d2&border_radius=8&hide_border=true&description_lines_count=2)](https://github.com/teamhypertrophy/Testosterone/)
