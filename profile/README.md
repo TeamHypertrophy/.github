@@ -6,8 +6,6 @@
 
 # [Hypertrophy](#)
 
-[![Discord server](https://img.shields.io/discord/1195734228319617024.svg?label=&labelColor=6A7EC2&color=7389D8&logo=discord&logoColor=FFFFFF)](https://discord.gg/mihon)
-
 </div>
 
 ## About Hypertrophy
