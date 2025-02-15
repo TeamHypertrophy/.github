@@ -1,5 +1,9 @@
 <div align="center">
-
+  
+<a href="https://hypertrophy.ghouldev.tech">
+    <img src="https://files.catbox.moe/025e3m.png" alt="Hypertrophy logo" title="Hypertrophy logo" width="80"/>
+</a>
+  
 # [Hypertrophy](#)
 
 </div>
